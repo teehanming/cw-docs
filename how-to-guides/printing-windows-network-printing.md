@@ -25,7 +25,7 @@ description: How to guide to print with a network printer
 
 1. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 2. Open the PushPrinter for Windows program application
-3. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+3. Go to the 'settings' cog and select the default or CEO Restaurant provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
